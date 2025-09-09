@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <img src = "sibi screenshot.jpg"
-    	width="auto" height="1200"
+    	width="1600" height="1200"
          alt = "SIDBI Bank" />
 
 </head>
